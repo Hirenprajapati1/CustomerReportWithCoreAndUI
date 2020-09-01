@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustmorReportCore", "CustmorReportCore.csproj", "{4A19A701-8817-4637-82A6-EE39EE029CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A19A701-8817-4637-82A6-EE39EE029CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A19A701-8817-4637-82A6-EE39EE029CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A19A701-8817-4637-82A6-EE39EE029CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A19A701-8817-4637-82A6-EE39EE029CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02822262-B640-4471-B8A4-8CB4315E99DA}
+	EndGlobalSection
+EndGlobal
